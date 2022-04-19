@@ -1,7 +1,7 @@
 const textEl = document.getElementById('text')
 const speedEl = document.getElementById('speed')
 
-const text = "I want to be a SDE!"
+const text = "Welcome to my Github Profile!"
 let id=0;
 let time=500/speed.value
 showText()
